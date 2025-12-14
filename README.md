@@ -12,8 +12,8 @@ The core challenge of PortalMaze lies in:
 The game supports two independent modes, each with its own scoring and optimal path validation.
 
 ## 🚀 Live Demo
-Live Game: (add your link here)  
-Demo Video: (add your video link here)
+Live Game: [(add your link here) ](https://portalmaze-hackathon.vercel.app/) 
+Demo Video: ([add your video link here](https://youtu.be/wLYBfEJ7YW0))
 
 ## 🧩 Game Modes
 No-Wall-Break Mode:
